@@ -53,6 +53,7 @@
     lay: 'lay', // 基础 DOM 操作
     layer: 'layer', // 弹层
     laydate: 'laydate', // 日期
+	layedit: 'layedit', // 日期
     laypage: 'laypage', // 分页
     laytpl: 'laytpl', // 模板引擎
     form: 'form', // 表单集
